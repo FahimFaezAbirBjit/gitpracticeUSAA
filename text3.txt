@@ -2,3 +2,5 @@ This is a sample text added by Shahnewaz
 This line is for merge conflict from sumon.
 This line is for merge conflict from Shahnewaz.
 Again for conflict.
+
+More conflict from sumon
