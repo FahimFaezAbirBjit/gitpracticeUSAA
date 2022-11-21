@@ -1,3 +1,9 @@
 This is a sample text added by Shahnewaz
 New text for merge conflict
 
+This line is for merge conflict from sumon.
+This line is for merge conflict from Shahnewaz.
+This is another line from Shahnewaz. 
+Again for conflict.
+
+
